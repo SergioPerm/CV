@@ -2,7 +2,7 @@
 Phone: +7 (982) 481-2251  
 Email: [itotdel@list.ru](mailto:itotdel@list.ru) **- Prefered**  
 Location: Perm, Russia **- Permanent Resident**  
-GitHub: [GlobakMaxim](https://github.com/SergioPerm)  
+GitHub: [SergioPerm](https://github.com/SergioPerm)  
 
 #### Skills
 ###### iOS
