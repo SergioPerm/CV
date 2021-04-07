@@ -12,13 +12,13 @@ GitHub: [SergioPerm](https://github.com/SergioPerm)
 - URLSession
 - MVC, MVVM
 - CoreLocation
+- SnapKit, DITranquility, RSwift, XCode Templates
 ###### Другое
 - 1C Enterprise 7.7, 8.*
 - vanilla js, html/css
+- C#
 
 ## Опыт работы
-
-* **Tasker** *Pet-project* - [GitHub link](https://github.com/SergioPerm/Tasker)
 
 ---
 
